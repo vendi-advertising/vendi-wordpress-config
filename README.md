@@ -1,0 +1,1 @@
+# vendi-wordpress-config
